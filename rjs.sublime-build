@@ -1,0 +1,5 @@
+{
+    "cmd": ["node", "r.js", "-o", "app.build.js"],
+    "working_dir": "$project_path",
+    "selector": "source.js"
+}

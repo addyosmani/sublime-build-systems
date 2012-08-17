@@ -1,0 +1,4 @@
+{
+     "cmd": ["yeoman", "build", "--no-color"],
+     "selector": ["source.js", "source.scss", "source.sass", "source.html"]
+}

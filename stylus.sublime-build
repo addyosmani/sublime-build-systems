@@ -1,0 +1,5 @@
+{
+    "cmd": ["stylus", "$file"],
+    "file_regex": ".",
+    "selector": "source.stylus"
+}
